@@ -1,4 +1,4 @@
-Unflatten
+Unflatten [![Build Status](https://drone.io/github.com/fgribreau/unflatten-array/status.png)](https://drone.io/github.com/fgribreau/unflatten-array/latest)
 =========
 
 > Unflatten an single-level list based on a pattern
