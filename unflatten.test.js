@@ -6,7 +6,7 @@ var _ = require('lodash');
 
 describe('unflatten', function () {
 
-  it('should be an identity function is the array are the same', function () {
+  it('should be an identity function if the arrays are the same', function () {
     t.deepEqual(unflatten([1, 2, 3, 4], ['a', 'b', 'c', 'd']), [1, 2, 3, 4]);
   });
 
