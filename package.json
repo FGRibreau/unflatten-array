@@ -2,7 +2,7 @@
   "name": "unflatten-array",
   "version": "1.0.0",
   "description": "Unflatten an single-level list based on a pattern",
-  "main": "index.js",
+  "main": "unflatten.js",
   "scripts": {
     "test": "mocha *.test.js"
   },
