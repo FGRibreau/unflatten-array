@@ -17,7 +17,7 @@ var unflatten = require('unflatten-array');
 var flatList = [1, 2, 3, 4];
 var arrayPattern = [['it', 'can'],['be', 'anything']];
 
-unflatten(flatList, arrayPattern); // [[1, 2], [3, 4]
+unflatten(flatList, arrayPattern); // [[1, 2], [3, 4]]
 ```
 
 
